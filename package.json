@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@clerk/nextjs": "^6.35.4",
+    "lucide": "^0.554.0",
+    "lucide-react": "^0.554.0",
+    "react": "^19.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.6",
+    "@types/react-dom": "^19.2.3"
+  }
+}
